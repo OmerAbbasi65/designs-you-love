@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Unisex Classic Pullover Hoodie | Navy Color | The Fox Design",
+    "price": "$39.99",
+    "link": "https://designs-4-you-6.creator-spring.com/listing/the-fox-hoodies-in-now",
+    "image": "/images/the-fox.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Unisex Classic Pullover Hoodie | Bald Eagle Face",
+    "price": "$40.99",
+    "link": "https://designs-4-you-6.creator-spring.com/listing/bald-eagle-face",
+    "image": "/images/bald-eagle.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Unisex Classic Pullover Hoodie | I LOVE COOKIES",
+    "price": "$40.99",
+    "link": "https://designs-4-you-6.creator-spring.com/listing/i-love-cookies-hoodies",
+    "image": "/images/i-love-cookies.jpg"
+  }
+]
