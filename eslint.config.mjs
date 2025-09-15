@@ -19,6 +19,16 @@ const eslintConfig = [
       "build/**",
       "next-env.d.ts",
     ],
+    overrides: [
+      {
+        files: ['app/generated/prisma/**/*.js'],
+        rules: {
+          '@typescript-eslint/no-require-imports': 'off',
+        },
+      },
+    ],
+
+
   },
 ];
 
