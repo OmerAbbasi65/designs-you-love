@@ -1,17 +1,5 @@
 
 
-// import Products from "@/components/Products";
-
-// // app/about/page.js
-// export default function ProdcutsPage() {
-//   return (
-//   <>
-//   <Products />
-//   </>
-//   )
-// }
-
-
 
 import { client } from "@/lib/sanity";
 import ProductsGrid from "@/components/ProductsGrid"; // Client Component
